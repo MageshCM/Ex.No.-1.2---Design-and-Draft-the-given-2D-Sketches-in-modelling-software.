@@ -36,7 +36,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- 
+ ![WhatsApp Image 2024-03-25 at 11 39 42_3cea0912](https://github.com/MageshCM/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/164765537/1a1fb98f-80fb-4262-bc16-aba825756521)
+
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
